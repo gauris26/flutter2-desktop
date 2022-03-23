@@ -128,3 +128,4 @@ You can try to [fix it by running](https://github.com/flutter/flutter/issues/598
 - https://flutter.dev/desktop
 - https://flutter.dev/docs/get-started/install/linux
 - https://www.ivaylopavlov.com/setting-up-windows-terminal-wsl-and-oh-my-zsh
+- https://stackoverflow.com/questions/67938486/after-installing-npm-on-wsl-ubuntu-20-04-i-get-the-message-usr-bin-env-bash
